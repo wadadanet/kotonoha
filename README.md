@@ -16,11 +16,21 @@
 
 ## 収録作品・出典
 
-原作は新美南吉。3作品とも全文を収録しています。
+青空文庫の名作短編13作品の全文を収録しています。
 
-- [飴だま](https://www.aozora.gr.jp/cards/000121/files/4723_13209.html)
-- [去年の木](https://www.aozora.gr.jp/cards/000121/files/4719_13221.html)
-- [赤い蝋燭](https://www.aozora.gr.jp/cards/000121/files/627_13466.html)
+- [飴だま](https://www.aozora.gr.jp/cards/000121/files/4723_13209.html)（新美 南吉）
+- [去年の木](https://www.aozora.gr.jp/cards/000121/files/4719_13221.html)（新美 南吉）
+- [赤い蝋燭](https://www.aozora.gr.jp/cards/000121/files/627_13466.html)（新美 南吉）
+- [手袋を買いに](https://www.aozora.gr.jp/cards/000121/files/637_13341.html)（新美 南吉）
+- [でんでんむしのかなしみ](https://www.aozora.gr.jp/cards/000121/files/43403_16820.html)（新美 南吉）
+- [やまなし](https://www.aozora.gr.jp/cards/000081/files/46605_31178.html)（宮沢 賢治）
+- [ざしき童子のはなし](https://www.aozora.gr.jp/cards/000081/files/2656_30647.html)（宮沢 賢治）
+- [蜘蛛の糸](https://www.aozora.gr.jp/cards/000879/files/92_14545.html)（芥川 龍之介）
+- [蜜柑](https://www.aozora.gr.jp/cards/000879/files/24453_47037.html)（芥川 龍之介）
+- [野ばら](https://www.aozora.gr.jp/cards/001475/files/51034_47932.html)（小川 未明）
+- [月夜と眼鏡](https://www.aozora.gr.jp/cards/001475/files/51089_53359.html)（小川 未明）
+- [きのこ会議](https://www.aozora.gr.jp/cards/000096/files/46694_27682.html)（夢野 久作）
+- [待つ](https://www.aozora.gr.jp/cards/000035/files/2317_13904.html)（太宰 治）
 
 日本で著作権の保護期間が満了した原作を、青空文庫の収録ファイルから利用しています。入力・校正・制作は青空文庫のボランティアの皆さんによるものです。底本・入力者・校正者等の情報は各作品の「出典・翻訳について」から確認できます。ルビを省略し、改行を整理しています。
 
