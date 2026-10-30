@@ -8,7 +8,11 @@ while read -r local_ref local_sha remote_ref remote_sha; do
   case "$local_sha" in
     0000000000000000000000000000000000000000) continue ;;
   esac
-  if [ "$local_sha" != "$head" ]; then
+  pushed_commit=$(git rev-parse --verify "$local_sha^{commit}") || {
+    echo 'Push rejected: pushed object is not a commit or a tag resolving to a commit.' >&2
+    exit 1
+  }
+  if [ "$pushed_commit" != "$head" ]; then
     echo "Push rejected: check out the pushed commit ($local_sha) and validate it." >&2
     exit 1
   fi
